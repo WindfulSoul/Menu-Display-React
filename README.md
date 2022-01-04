@@ -2,7 +2,7 @@
 
 This project is a React Project that allows users to pick menus based on the preferences they pick. The application utilizes useState and useEffect to render new categories and search for the types of food that are offered. 
 
-![](images/image2.png)
+![](images/image.png)
 
 
 ## Available Scripts
