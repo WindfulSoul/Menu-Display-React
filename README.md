@@ -1,9 +1,21 @@
 # Menu-Display-React
 
-This project is a React Project that allows users to pick menus based on the preferences they pick. The application utilizes useState and useEffect to render new categories and search for the types of food that are offered. 
+This project is a React Project that allows users to pick menus based on the preferences they pick. The application utilizes useState and useEffect to render new categories and search for the types of food that are offered. The dynamic React hooks and routers are also explored in this project, specifically targeting toward food selection upon clicks, which send compilable signals among components and deliver the rendered data accordingly. The implication and usability of React precipitates on its various components.
 
 ![](images/image.png)
 
+Built with
+- React
+- React Router
+- React Hooks (useState, useEffect)
+- HTML
+- CSS
+- Material UI
+
+Concepts Learned
+- React Hooks and Components Rendered
+- Dynamic and Reactive Selections among Buttons
+- CSS Animation and Grid System
 
 ## Available Scripts
 
